@@ -1,0 +1,4 @@
+order_id,email,status,eta,items
+MM-1001,alice@example.com,Versandt,2025-10-29,"APPLE iPhone 15"
+MM-1002,bob@example.com,In Bearbeitung,2025-10-30,"GARMIN Forerunner 165"
+MM-1003,carol@example.com,Retoure eingeleitet,–,"SAMSUNG Galaxy Watch8"
