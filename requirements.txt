@@ -6,3 +6,9 @@ langchain-text-splitters>=0.2
 sentence-transformers>=3.0
 faiss-cpu>=1.8
 requests>=2.31
+beautifulsoup4
+lxml
+PyMuPDF
+pypdf
+gradio
+torch
